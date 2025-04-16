@@ -21,8 +21,8 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/internal/blocktest"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/internal/blocktest"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 	"github.com/ethereum/go-ethereum/rlp"

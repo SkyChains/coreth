@@ -7,8 +7,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/coreth/rpc"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/coreth/rpc"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 )
 

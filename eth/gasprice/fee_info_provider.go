@@ -30,9 +30,9 @@ import (
 	"context"
 	"math/big"
 
-	"github.com/luxfi/coreth/core"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/rpc"
+	"github.com/SkyChains/coreth/core"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/rpc"
 	lru "github.com/hashicorp/golang-lru"
 )
 

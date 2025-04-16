@@ -7,10 +7,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/luxfi/node/codec"
+	"github.com/SkyChains/chain/codec"
 
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/utils/units"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/utils/units"
 )
 
 const (

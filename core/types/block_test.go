@@ -32,8 +32,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/luxfi/coreth/internal/blocktest"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/coreth/internal/blocktest"
+	"github.com/SkyChains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"

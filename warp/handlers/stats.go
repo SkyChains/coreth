@@ -6,7 +6,7 @@ package handlers
 import (
 	"time"
 
-	"github.com/luxfi/coreth/metrics"
+	"github.com/SkyChains/coreth/metrics"
 )
 
 type handlerStats struct {

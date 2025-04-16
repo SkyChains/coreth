@@ -7,17 +7,17 @@ import (
 	"math/big"
 	"math/rand"
 
-	"github.com/luxfi/node/utils"
+	"github.com/SkyChains/chain/utils"
 
-	"github.com/luxfi/node/chains/atomic"
-	"github.com/luxfi/node/codec"
-	"github.com/luxfi/node/codec/linearcodec"
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/snow"
-	"github.com/luxfi/node/utils/set"
-	"github.com/luxfi/node/utils/wrappers"
-	"github.com/luxfi/coreth/core/state"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/chain/chains/atomic"
+	"github.com/SkyChains/chain/codec"
+	"github.com/SkyChains/chain/codec/linearcodec"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/snow"
+	"github.com/SkyChains/chain/utils/set"
+	"github.com/SkyChains/chain/utils/wrappers"
+	"github.com/SkyChains/coreth/core/state"
+	"github.com/SkyChains/coreth/params"
 )
 
 type TestUnsignedTx struct {

@@ -6,7 +6,7 @@ package peer
 import (
 	"testing"
 
-	"github.com/luxfi/node/ids"
+	"github.com/SkyChains/chain/ids"
 	"github.com/stretchr/testify/require"
 )
 

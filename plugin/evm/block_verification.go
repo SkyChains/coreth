@@ -10,12 +10,12 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	safemath "github.com/luxfi/node/utils/math"
+	safemath "github.com/SkyChains/chain/utils/math"
 
-	"github.com/luxfi/coreth/constants"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/params"
-	"github.com/luxfi/coreth/trie"
+	"github.com/SkyChains/coreth/constants"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/params"
+	"github.com/SkyChains/coreth/trie"
 )
 
 var (

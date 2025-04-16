@@ -22,10 +22,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/core/state"
-	"github.com/luxfi/coreth/core/vm"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/core/state"
+	"github.com/SkyChains/coreth/core/vm"
+	"github.com/SkyChains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 )
 

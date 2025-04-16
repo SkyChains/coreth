@@ -8,8 +8,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/luxfi/node/snow"
-	"github.com/luxfi/coreth/utils"
+	"github.com/SkyChains/chain/snow"
+	"github.com/SkyChains/coreth/utils"
 )
 
 // UpgradeConfig includes the following configs that may be specified in upgradeBytes:

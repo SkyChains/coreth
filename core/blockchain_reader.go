@@ -27,14 +27,14 @@
 package core
 
 import (
-	"github.com/luxfi/coreth/consensus"
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/core/state"
-	"github.com/luxfi/coreth/core/state/snapshot"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/core/vm"
-	"github.com/luxfi/coreth/params"
-	"github.com/luxfi/coreth/trie"
+	"github.com/SkyChains/coreth/consensus"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/core/state"
+	"github.com/SkyChains/coreth/core/state/snapshot"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/core/vm"
+	"github.com/SkyChains/coreth/params"
+	"github.com/SkyChains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/event"
 )

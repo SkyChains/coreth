@@ -7,11 +7,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/luxfi/node/utils/set"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/params"
-	"github.com/luxfi/coreth/precompile/precompileconfig"
-	"github.com/luxfi/coreth/predicate"
+	"github.com/SkyChains/chain/utils/set"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/params"
+	"github.com/SkyChains/coreth/precompile/precompileconfig"
+	"github.com/SkyChains/coreth/predicate"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

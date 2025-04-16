@@ -27,14 +27,14 @@
 package tests
 
 import (
-	"github.com/luxfi/coreth/core"
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/core/state"
-	"github.com/luxfi/coreth/core/state/snapshot"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/trie"
-	"github.com/luxfi/coreth/trie/triedb/hashdb"
-	"github.com/luxfi/coreth/trie/triedb/pathdb"
+	"github.com/SkyChains/coreth/core"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/core/state"
+	"github.com/SkyChains/coreth/core/state/snapshot"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/trie"
+	"github.com/SkyChains/coreth/trie/triedb/hashdb"
+	"github.com/SkyChains/coreth/trie/triedb/pathdb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 )

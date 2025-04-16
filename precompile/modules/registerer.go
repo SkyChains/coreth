@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/luxfi/coreth/constants"
-	"github.com/luxfi/coreth/utils"
+	"github.com/SkyChains/coreth/constants"
+	"github.com/SkyChains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 )
 

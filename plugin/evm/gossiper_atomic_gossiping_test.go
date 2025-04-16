@@ -10,13 +10,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/utils/set"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/utils/set"
 	"github.com/stretchr/testify/assert"
 
-	commonEng "github.com/luxfi/node/snow/engine/common"
+	commonEng "github.com/SkyChains/chain/snow/engine/common"
 
-	"github.com/luxfi/coreth/plugin/evm/message"
+	"github.com/SkyChains/coreth/plugin/evm/message"
 )
 
 // show that a txID discovered from gossip is requested to the same node only if

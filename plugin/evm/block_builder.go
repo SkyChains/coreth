@@ -7,13 +7,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/luxfi/node/utils/timer"
-	"github.com/luxfi/coreth/core"
-	"github.com/luxfi/coreth/core/txpool"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/chain/utils/timer"
+	"github.com/SkyChains/coreth/core"
+	"github.com/SkyChains/coreth/core/txpool"
+	"github.com/SkyChains/coreth/params"
 
-	"github.com/luxfi/node/snow"
-	commonEng "github.com/luxfi/node/snow/engine/common"
+	"github.com/SkyChains/chain/snow"
+	commonEng "github.com/SkyChains/chain/snow/engine/common"
 	"github.com/ethereum/go-ethereum/log"
 )
 

@@ -7,11 +7,11 @@ import (
 	"context"
 	"time"
 
-	"github.com/luxfi/node/codec"
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/utils/crypto/bls"
-	"github.com/luxfi/coreth/plugin/evm/message"
-	"github.com/luxfi/coreth/warp"
+	"github.com/SkyChains/chain/codec"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/utils/crypto/bls"
+	"github.com/SkyChains/coreth/plugin/evm/message"
+	"github.com/SkyChains/coreth/warp"
 	"github.com/ethereum/go-ethereum/log"
 )
 

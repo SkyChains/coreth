@@ -32,8 +32,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/trie"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 	"github.com/ethereum/go-ethereum/log"

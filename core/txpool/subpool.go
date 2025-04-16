@@ -30,8 +30,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/luxfi/coreth/core"
-	"github.com/luxfi/coreth/core/types"
+	"github.com/SkyChains/coreth/core"
+	"github.com/SkyChains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/event"
 )

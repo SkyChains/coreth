@@ -33,10 +33,10 @@ import (
 	"runtime"
 	"runtime/debug"
 
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/ethclient"
-	"github.com/luxfi/coreth/interfaces"
-	"github.com/luxfi/coreth/rpc"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/ethclient"
+	"github.com/SkyChains/coreth/interfaces"
+	"github.com/SkyChains/coreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 )

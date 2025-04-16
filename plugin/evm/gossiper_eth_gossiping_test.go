@@ -14,10 +14,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/utils/set"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/utils/set"
 
-	commonEng "github.com/luxfi/node/snow/engine/common"
+	commonEng "github.com/SkyChains/chain/snow/engine/common"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
@@ -25,10 +25,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/luxfi/coreth/core"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/params"
-	"github.com/luxfi/coreth/plugin/evm/message"
+	"github.com/SkyChains/coreth/core"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/params"
+	"github.com/SkyChains/coreth/plugin/evm/message"
 )
 
 func fundAddressByGenesis(addrs []common.Address) (string, error) {

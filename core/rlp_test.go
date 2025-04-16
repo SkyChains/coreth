@@ -31,9 +31,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/luxfi/coreth/consensus/dummy"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/coreth/consensus/dummy"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"

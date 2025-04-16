@@ -7,8 +7,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/luxfi/node/utils"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/chain/utils"
+	"github.com/SkyChains/coreth/params"
 	"github.com/stretchr/testify/require"
 )
 

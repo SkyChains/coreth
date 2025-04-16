@@ -6,9 +6,9 @@ package evm
 import (
 	"errors"
 
-	"github.com/luxfi/node/database/encdb"
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/utils/crypto/secp256k1"
+	"github.com/SkyChains/chain/database/encdb"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/utils/crypto/secp256k1"
 	"github.com/ethereum/go-ethereum/common"
 )
 

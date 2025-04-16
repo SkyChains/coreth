@@ -6,12 +6,12 @@ package warp
 import (
 	"fmt"
 
-	"github.com/luxfi/node/utils/set"
-	"github.com/luxfi/node/vms/platformvm/warp"
-	"github.com/luxfi/node/vms/platformvm/warp/payload"
-	"github.com/luxfi/coreth/precompile/contract"
-	"github.com/luxfi/coreth/predicate"
-	"github.com/luxfi/coreth/vmerrs"
+	"github.com/SkyChains/chain/utils/set"
+	"github.com/SkyChains/chain/vms/platformvm/warp"
+	"github.com/SkyChains/chain/vms/platformvm/warp/payload"
+	"github.com/SkyChains/coreth/precompile/contract"
+	"github.com/SkyChains/coreth/predicate"
+	"github.com/SkyChains/coreth/vmerrs"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 )

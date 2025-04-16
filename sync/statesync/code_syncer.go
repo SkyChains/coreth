@@ -9,11 +9,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/utils/set"
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/plugin/evm/message"
-	statesyncclient "github.com/luxfi/coreth/sync/client"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/utils/set"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/plugin/evm/message"
+	statesyncclient "github.com/SkyChains/coreth/sync/client"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 )

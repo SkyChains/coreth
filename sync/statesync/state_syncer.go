@@ -8,9 +8,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/luxfi/coreth/core/state/snapshot"
-	syncclient "github.com/luxfi/coreth/sync/client"
-	"github.com/luxfi/coreth/trie"
+	"github.com/SkyChains/coreth/core/state/snapshot"
+	syncclient "github.com/SkyChains/coreth/sync/client"
+	"github.com/SkyChains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 	"golang.org/x/sync/errgroup"

@@ -22,9 +22,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/trie/trienode"
-	"github.com/luxfi/coreth/trie/utils"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/trie/trienode"
+	"github.com/SkyChains/coreth/trie/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 	"github.com/gballet/go-verkle"

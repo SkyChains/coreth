@@ -6,15 +6,15 @@ package evm
 import (
 	"context"
 
-	"github.com/luxfi/node/codec"
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/coreth/metrics"
-	"github.com/luxfi/coreth/plugin/evm/message"
-	syncHandlers "github.com/luxfi/coreth/sync/handlers"
-	syncStats "github.com/luxfi/coreth/sync/handlers/stats"
-	"github.com/luxfi/coreth/trie"
-	"github.com/luxfi/coreth/warp"
-	warpHandlers "github.com/luxfi/coreth/warp/handlers"
+	"github.com/SkyChains/chain/codec"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/coreth/metrics"
+	"github.com/SkyChains/coreth/plugin/evm/message"
+	syncHandlers "github.com/SkyChains/coreth/sync/handlers"
+	syncStats "github.com/SkyChains/coreth/sync/handlers/stats"
+	"github.com/SkyChains/coreth/trie"
+	"github.com/SkyChains/coreth/warp"
+	warpHandlers "github.com/SkyChains/coreth/warp/handlers"
 	"github.com/ethereum/go-ethereum/ethdb"
 )
 

@@ -29,9 +29,9 @@ package trie
 import (
 	"fmt"
 
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/trie/trienode"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/trie/trienode"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 )

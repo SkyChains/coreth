@@ -9,14 +9,14 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/luxfi/node/database/versiondb"
-	"github.com/luxfi/node/utils/wrappers"
+	"github.com/SkyChains/chain/database/versiondb"
+	"github.com/SkyChains/chain/utils/wrappers"
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/luxfi/coreth/plugin/evm/message"
-	syncclient "github.com/luxfi/coreth/sync/client"
-	"github.com/luxfi/coreth/trie"
+	"github.com/SkyChains/coreth/plugin/evm/message"
+	syncclient "github.com/SkyChains/coreth/sync/client"
+	"github.com/SkyChains/coreth/trie"
 )
 
 var (

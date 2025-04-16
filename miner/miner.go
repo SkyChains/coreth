@@ -28,13 +28,13 @@
 package miner
 
 import (
-	"github.com/luxfi/node/utils/timer/mockable"
-	"github.com/luxfi/coreth/consensus"
-	"github.com/luxfi/coreth/core"
-	"github.com/luxfi/coreth/core/txpool"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/params"
-	"github.com/luxfi/coreth/precompile/precompileconfig"
+	"github.com/SkyChains/chain/utils/timer/mockable"
+	"github.com/SkyChains/coreth/consensus"
+	"github.com/SkyChains/coreth/core"
+	"github.com/SkyChains/coreth/core/txpool"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/params"
+	"github.com/SkyChains/coreth/precompile/precompileconfig"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/event"
 )

@@ -8,11 +8,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/luxfi/node/utils/logging"
-	"github.com/luxfi/node/utils/ulimit"
-	"github.com/luxfi/node/vms/rpcchainvm"
+	"github.com/SkyChains/chain/utils/logging"
+	"github.com/SkyChains/chain/utils/ulimit"
+	"github.com/SkyChains/chain/vms/rpcchainvm"
 
-	"github.com/luxfi/coreth/plugin/evm"
+	"github.com/SkyChains/coreth/plugin/evm"
 )
 
 func main() {

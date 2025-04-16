@@ -10,25 +10,25 @@ import (
 	"sync"
 	"time"
 
-	"github.com/luxfi/node/codec"
-	"github.com/luxfi/node/network/p2p/gossip"
+	"github.com/SkyChains/chain/codec"
+	"github.com/SkyChains/chain/network/p2p/gossip"
 
-	"github.com/luxfi/coreth/peer"
+	"github.com/SkyChains/coreth/peer"
 
-	"github.com/luxfi/node/cache"
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/snow"
-	"github.com/luxfi/node/utils/wrappers"
+	"github.com/SkyChains/chain/cache"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/snow"
+	"github.com/SkyChains/chain/utils/wrappers"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/luxfi/coreth/core"
-	"github.com/luxfi/coreth/core/state"
-	"github.com/luxfi/coreth/core/txpool"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/plugin/evm/message"
+	"github.com/SkyChains/coreth/core"
+	"github.com/SkyChains/coreth/core/state"
+	"github.com/SkyChains/coreth/core/txpool"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/plugin/evm/message"
 )
 
 const (

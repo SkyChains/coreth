@@ -38,12 +38,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/luxfi/coreth/consensus"
-	"github.com/luxfi/coreth/consensus/dummy"
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/core/vm"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/coreth/consensus"
+	"github.com/SkyChains/coreth/consensus/dummy"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/core/vm"
+	"github.com/SkyChains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 )

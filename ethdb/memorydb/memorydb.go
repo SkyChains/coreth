@@ -33,7 +33,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/luxfi/coreth/ethdb"
+	"github.com/SkyChains/coreth/ethdb"
 	"github.com/ethereum/go-ethereum/common"
 )
 

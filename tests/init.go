@@ -31,8 +31,8 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/luxfi/coreth/params"
-	"github.com/luxfi/coreth/utils"
+	"github.com/SkyChains/coreth/params"
+	"github.com/SkyChains/coreth/utils"
 )
 
 // Forks table defines supported forks and their chain config.

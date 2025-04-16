@@ -31,8 +31,8 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/luxfi/node/utils/wrappers"
-	"github.com/luxfi/coreth/metrics"
+	"github.com/SkyChains/chain/utils/wrappers"
+	"github.com/SkyChains/coreth/metrics"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

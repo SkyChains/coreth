@@ -32,9 +32,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/luxfi/coreth/core/bloombits"
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/core/types"
+	"github.com/SkyChains/coreth/core/bloombits"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/bitutil"
 	"github.com/ethereum/go-ethereum/ethdb"

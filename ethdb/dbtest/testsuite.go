@@ -33,7 +33,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/luxfi/coreth/ethdb"
+	"github.com/SkyChains/coreth/ethdb"
 )
 
 // TestDatabaseSuite runs a suite of tests against a KeyValueStore database

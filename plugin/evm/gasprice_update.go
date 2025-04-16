@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/luxfi/coreth/params"
-	"github.com/luxfi/coreth/utils"
+	"github.com/SkyChains/coreth/params"
+	"github.com/SkyChains/coreth/utils"
 )
 
 type gasPriceUpdater struct {

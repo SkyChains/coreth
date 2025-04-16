@@ -8,9 +8,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/luxfi/coreth/precompile/modules"
-	"github.com/luxfi/coreth/precompile/precompileconfig"
-	"github.com/luxfi/coreth/utils"
+	"github.com/SkyChains/coreth/precompile/modules"
+	"github.com/SkyChains/coreth/precompile/precompileconfig"
+	"github.com/SkyChains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 )
 

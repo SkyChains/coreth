@@ -29,11 +29,11 @@ package core
 import (
 	"sync/atomic"
 
-	"github.com/luxfi/coreth/consensus"
-	"github.com/luxfi/coreth/core/state"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/core/vm"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/coreth/consensus"
+	"github.com/SkyChains/coreth/core/state"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/core/vm"
+	"github.com/SkyChains/coreth/params"
 )
 
 // statePrefetcher is a basic Prefetcher, which blindly executes a block on top

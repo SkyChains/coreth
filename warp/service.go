@@ -8,12 +8,12 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/vms/platformvm/warp"
-	"github.com/luxfi/node/vms/platformvm/warp/payload"
-	"github.com/luxfi/coreth/peer"
-	"github.com/luxfi/coreth/warp/aggregator"
-	"github.com/luxfi/coreth/warp/validators"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/vms/platformvm/warp"
+	"github.com/SkyChains/chain/vms/platformvm/warp/payload"
+	"github.com/SkyChains/coreth/peer"
+	"github.com/SkyChains/coreth/warp/aggregator"
+	"github.com/SkyChains/coreth/warp/validators"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/log"
 )

@@ -7,12 +7,12 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/luxfi/node/chains/atomic"
-	"github.com/luxfi/node/codec"
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/utils/wrappers"
+	"github.com/SkyChains/chain/chains/atomic"
+	"github.com/SkyChains/chain/codec"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/utils/wrappers"
 
-	"github.com/luxfi/coreth/trie"
+	"github.com/SkyChains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 )
 

@@ -4,14 +4,14 @@
 package evm
 
 import (
-	"github.com/luxfi/node/ids"
+	"github.com/SkyChains/chain/ids"
 
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/luxfi/coreth/core/txpool"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/plugin/evm/message"
+	"github.com/SkyChains/coreth/core/txpool"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/plugin/evm/message"
 )
 
 // GossipHandler handles incoming gossip messages

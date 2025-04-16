@@ -14,8 +14,8 @@ import (
 	"unicode"
 
 	// Force-load native and js packages, to trigger registration
-	_ "github.com/luxfi/coreth/eth/tracers/js"
-	_ "github.com/luxfi/coreth/eth/tracers/native"
+	_ "github.com/SkyChains/coreth/eth/tracers/js"
+	_ "github.com/SkyChains/coreth/eth/tracers/native"
 )
 
 // To generate a new callTracer test, copy paste the makeTest method below into

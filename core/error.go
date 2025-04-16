@@ -29,7 +29,7 @@ package core
 import (
 	"errors"
 
-	"github.com/luxfi/coreth/core/types"
+	"github.com/SkyChains/coreth/core/types"
 )
 
 var (

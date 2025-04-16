@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/coreth/params"
 )
 
 // LookupInstructionSet returns the instruction set for the fork configured by

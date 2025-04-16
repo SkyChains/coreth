@@ -19,10 +19,10 @@ package trie
 import (
 	"errors"
 
-	"github.com/luxfi/coreth/trie/triedb/hashdb"
-	"github.com/luxfi/coreth/trie/triedb/pathdb"
-	"github.com/luxfi/coreth/trie/trienode"
-	"github.com/luxfi/coreth/trie/triestate"
+	"github.com/SkyChains/coreth/trie/triedb/hashdb"
+	"github.com/SkyChains/coreth/trie/triedb/pathdb"
+	"github.com/SkyChains/coreth/trie/trienode"
+	"github.com/SkyChains/coreth/trie/triestate"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 	"github.com/ethereum/go-ethereum/log"

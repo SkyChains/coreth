@@ -33,9 +33,9 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/luxfi/coreth/core/vm"
-	"github.com/luxfi/coreth/eth/tracers"
-	"github.com/luxfi/coreth/vmerrs"
+	"github.com/SkyChains/coreth/core/vm"
+	"github.com/SkyChains/coreth/eth/tracers"
+	"github.com/SkyChains/coreth/vmerrs"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 )

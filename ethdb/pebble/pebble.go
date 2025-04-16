@@ -41,8 +41,8 @@ import (
 	"github.com/cockroachdb/pebble/bloom"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
-	"github.com/luxfi/coreth/ethdb"
-	"github.com/luxfi/coreth/metrics"
+	"github.com/SkyChains/coreth/ethdb"
+	"github.com/SkyChains/coreth/metrics"
 )
 
 const (

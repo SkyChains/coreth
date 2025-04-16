@@ -12,17 +12,17 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/luxfi/node/database"
-	"github.com/luxfi/node/database/memdb"
-	"github.com/luxfi/node/database/versiondb"
+	"github.com/SkyChains/chain/database"
+	"github.com/SkyChains/chain/database/memdb"
+	"github.com/SkyChains/chain/database/versiondb"
 
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/plugin/evm/message"
-	syncclient "github.com/luxfi/coreth/sync/client"
-	"github.com/luxfi/coreth/sync/handlers"
-	handlerstats "github.com/luxfi/coreth/sync/handlers/stats"
-	"github.com/luxfi/coreth/sync/syncutils"
-	"github.com/luxfi/coreth/trie"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/plugin/evm/message"
+	syncclient "github.com/SkyChains/coreth/sync/client"
+	"github.com/SkyChains/coreth/sync/handlers"
+	handlerstats "github.com/SkyChains/coreth/sync/handlers/stats"
+	"github.com/SkyChains/coreth/sync/syncutils"
+	"github.com/SkyChains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 )
 

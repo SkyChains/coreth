@@ -11,23 +11,23 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/luxfi/node/ids"
+	"github.com/SkyChains/chain/ids"
 
-	"github.com/luxfi/coreth/params"
-	"github.com/luxfi/coreth/sync/client/stats"
+	"github.com/SkyChains/coreth/params"
+	"github.com/SkyChains/coreth/sync/client/stats"
 
-	"github.com/luxfi/node/codec"
-	"github.com/luxfi/node/version"
+	"github.com/SkyChains/chain/codec"
+	"github.com/SkyChains/chain/version"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/luxfi/coreth/core/rawdb"
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/peer"
-	"github.com/luxfi/coreth/plugin/evm/message"
-	"github.com/luxfi/coreth/trie"
+	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/peer"
+	"github.com/SkyChains/coreth/plugin/evm/message"
+	"github.com/SkyChains/coreth/trie"
 	"github.com/ethereum/go-ethereum/ethdb"
 )
 

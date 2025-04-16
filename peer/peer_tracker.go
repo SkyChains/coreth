@@ -8,14 +8,14 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/luxfi/node/ids"
-	utils_math "github.com/luxfi/node/utils/math"
-	"github.com/luxfi/node/utils/set"
-	"github.com/luxfi/node/version"
+	"github.com/SkyChains/chain/ids"
+	utils_math "github.com/SkyChains/chain/utils/math"
+	"github.com/SkyChains/chain/utils/set"
+	"github.com/SkyChains/chain/version"
 
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/luxfi/coreth/metrics"
+	"github.com/SkyChains/coreth/metrics"
 )
 
 const (

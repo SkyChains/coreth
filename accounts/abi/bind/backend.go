@@ -31,8 +31,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/luxfi/coreth/core/types"
-	"github.com/luxfi/coreth/interfaces"
+	"github.com/SkyChains/coreth/core/types"
+	"github.com/SkyChains/coreth/interfaces"
 	"github.com/ethereum/go-ethereum/common"
 )
 

@@ -8,13 +8,13 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/luxfi/node/cache"
-	"github.com/luxfi/node/ids"
-	"github.com/luxfi/node/network/p2p/gossip"
-	"github.com/luxfi/node/snow"
+	"github.com/SkyChains/chain/cache"
+	"github.com/SkyChains/chain/ids"
+	"github.com/SkyChains/chain/network/p2p/gossip"
+	"github.com/SkyChains/chain/snow"
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/luxfi/coreth/metrics"
+	"github.com/SkyChains/coreth/metrics"
 	"github.com/ethereum/go-ethereum/log"
 )
 

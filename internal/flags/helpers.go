@@ -32,8 +32,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/luxfi/coreth/internal/version"
-	"github.com/luxfi/coreth/params"
+	"github.com/SkyChains/coreth/internal/version"
+	"github.com/SkyChains/coreth/params"
 	"github.com/mattn/go-isatty"
 	"github.com/urfave/cli/v2"
 )
