@@ -7,7 +7,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/common/math"

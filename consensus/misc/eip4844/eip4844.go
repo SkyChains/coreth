@@ -31,8 +31,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/params"
 )
 
 var (

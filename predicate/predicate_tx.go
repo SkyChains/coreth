@@ -6,8 +6,8 @@ package predicate
 import (
 	"math/big"
 
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 )
 

@@ -7,17 +7,17 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils"
-	"github.com/SkyChains/chain/utils/constants"
-	"github.com/SkyChains/chain/utils/crypto/secp256k1"
-	"github.com/SkyChains/chain/utils/set"
-	"github.com/SkyChains/chain/vms/components/lux"
-	"github.com/SkyChains/chain/vms/secp256k1fx"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils"
+	"github.com/skychains/chain/utils/constants"
+	"github.com/skychains/chain/utils/crypto/secp256k1"
+	"github.com/skychains/chain/utils/set"
+	"github.com/skychains/chain/vms/components/lux"
+	"github.com/skychains/chain/vms/secp256k1fx"
 )
 
 // createImportTxOptions adds a UTXO to shared memory and generates a list of import transactions sending this UTXO

@@ -33,7 +33,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 )
 

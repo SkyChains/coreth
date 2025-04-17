@@ -4,14 +4,14 @@
 package evm
 
 import (
-	"github.com/SkyChains/chain/ids"
+	"github.com/skychains/chain/ids"
 
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/SkyChains/coreth/core/txpool"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/core/txpool"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/plugin/evm/message"
 )
 
 // GossipHandler handles incoming gossip messages

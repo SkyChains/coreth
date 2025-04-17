@@ -33,8 +33,8 @@ import (
 
 	"github.com/cockroachdb/pebble"
 	"github.com/cockroachdb/pebble/vfs"
-	"github.com/SkyChains/coreth/ethdb"
-	"github.com/SkyChains/coreth/ethdb/dbtest"
+	"github.com/skychains/coreth/ethdb"
+	"github.com/skychains/coreth/ethdb/dbtest"
 )
 
 func TestPebbleDB(t *testing.T) {

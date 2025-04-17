@@ -29,7 +29,7 @@ package vm
 import (
 	"fmt"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 )
 
 type (

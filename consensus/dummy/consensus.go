@@ -10,13 +10,13 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/SkyChains/chain/utils/timer/mockable"
-	"github.com/SkyChains/coreth/consensus"
-	"github.com/SkyChains/coreth/consensus/misc/eip4844"
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/trie"
+	"github.com/skychains/chain/utils/timer/mockable"
+	"github.com/skychains/coreth/consensus"
+	"github.com/skychains/coreth/consensus/misc/eip4844"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 )
 

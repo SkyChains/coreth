@@ -21,10 +21,10 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/SkyChains/coreth/ethdb"
-	"github.com/SkyChains/coreth/trie/triedb/hashdb"
-	"github.com/SkyChains/coreth/trie/trienode"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/ethdb"
+	"github.com/skychains/coreth/trie/triedb/hashdb"
+	"github.com/skychains/coreth/trie/trienode"
+	"github.com/skychains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

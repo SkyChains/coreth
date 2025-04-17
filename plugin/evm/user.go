@@ -6,9 +6,9 @@ package evm
 import (
 	"errors"
 
-	"github.com/SkyChains/chain/database/encdb"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/crypto/secp256k1"
+	"github.com/skychains/chain/database/encdb"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/crypto/secp256k1"
 	"github.com/ethereum/go-ethereum/common"
 )
 

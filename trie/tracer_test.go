@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie/trienode"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie/trienode"
 	"github.com/ethereum/go-ethereum/common"
 )
 

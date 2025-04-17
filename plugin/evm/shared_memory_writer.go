@@ -4,9 +4,9 @@
 package evm
 
 import (
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/coreth/precompile/precompileconfig"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/coreth/precompile/precompileconfig"
 )
 
 var _ precompileconfig.SharedMemoryWriter = &sharedMemoryWriter{}

@@ -19,7 +19,7 @@ package misc
 import (
 	"math/big"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 )
 
 var (

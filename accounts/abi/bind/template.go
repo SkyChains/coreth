@@ -26,7 +26,7 @@
 
 package bind
 
-import "github.com/SkyChains/coreth/accounts/abi"
+import "github.com/skychains/coreth/accounts/abi"
 
 // tmplData is the data structure required to fill the binding template.
 type tmplData struct {
@@ -101,10 +101,10 @@ import (
 	"strings"
 	"errors"
 
-	"github.com/SkyChains/coreth/accounts/abi"
-	"github.com/SkyChains/coreth/accounts/abi/bind"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/interfaces"
+	"github.com/skychains/coreth/accounts/abi"
+	"github.com/skychains/coreth/accounts/abi/bind"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/interfaces"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/event"
 )

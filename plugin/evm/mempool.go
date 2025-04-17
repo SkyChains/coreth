@@ -8,13 +8,13 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/SkyChains/chain/cache"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/network/p2p/gossip"
-	"github.com/SkyChains/chain/snow"
+	"github.com/skychains/chain/cache"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/network/p2p/gossip"
+	"github.com/skychains/chain/snow"
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/coreth/metrics"
 	"github.com/ethereum/go-ethereum/log"
 )
 

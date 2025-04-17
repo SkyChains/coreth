@@ -7,21 +7,21 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/database"
-	"github.com/SkyChains/chain/database/prefixdb"
-	"github.com/SkyChains/chain/database/versiondb"
-	"github.com/SkyChains/chain/utils"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/database"
+	"github.com/skychains/chain/database/prefixdb"
+	"github.com/skychains/chain/database/versiondb"
+	"github.com/skychains/chain/utils"
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/utils/set"
-	"github.com/SkyChains/chain/utils/wrappers"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/utils/set"
+	"github.com/skychains/chain/utils/wrappers"
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/SkyChains/chain/database/memdb"
-	"github.com/SkyChains/chain/ids"
+	"github.com/skychains/chain/database/memdb"
+	"github.com/skychains/chain/ids"
 )
 
 // addTxs writes [txsPerHeight] txs for heights ranging in [fromHeight, toHeight) directly to [acceptedAtomicTxDB],

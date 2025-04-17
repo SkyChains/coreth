@@ -11,14 +11,14 @@ import (
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/database"
-	"github.com/SkyChains/chain/database/prefixdb"
-	"github.com/SkyChains/chain/database/versiondb"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils"
-	"github.com/SkyChains/chain/utils/units"
-	"github.com/SkyChains/chain/utils/wrappers"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/database"
+	"github.com/skychains/chain/database/prefixdb"
+	"github.com/skychains/chain/database/versiondb"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils"
+	"github.com/skychains/chain/utils/units"
+	"github.com/skychains/chain/utils/wrappers"
 )
 
 const (

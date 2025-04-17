@@ -39,7 +39,7 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/SkyChains/coreth/accounts/abi"
+	"github.com/skychains/coreth/accounts/abi"
 	"github.com/ethereum/go-ethereum/log"
 )
 

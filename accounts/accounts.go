@@ -31,8 +31,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/interfaces"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/interfaces"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/event"
 	"golang.org/x/crypto/sha3"

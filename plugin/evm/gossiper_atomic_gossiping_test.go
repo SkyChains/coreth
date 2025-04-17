@@ -10,13 +10,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/set"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/set"
 	"github.com/stretchr/testify/assert"
 
-	commonEng "github.com/SkyChains/chain/snow/engine/common"
+	commonEng "github.com/skychains/chain/snow/engine/common"
 
-	"github.com/SkyChains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/plugin/evm/message"
 )
 
 // show that a txID discovered from gossip is requested to the same node only if

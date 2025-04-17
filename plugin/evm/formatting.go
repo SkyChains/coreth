@@ -6,10 +6,10 @@ package evm
 import (
 	"fmt"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/constants"
-	"github.com/SkyChains/chain/utils/crypto/secp256k1"
-	"github.com/SkyChains/chain/utils/formatting/address"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/constants"
+	"github.com/skychains/chain/utils/crypto/secp256k1"
+	"github.com/skychains/chain/utils/formatting/address"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

@@ -29,12 +29,12 @@ package ethconfig
 import (
 	"time"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/txpool/blobpool"
-	"github.com/SkyChains/coreth/core/txpool/legacypool"
-	"github.com/SkyChains/coreth/eth/gasprice"
-	"github.com/SkyChains/coreth/miner"
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/txpool/blobpool"
+	"github.com/skychains/coreth/core/txpool/legacypool"
+	"github.com/skychains/coreth/eth/gasprice"
+	"github.com/skychains/coreth/miner"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 )
 

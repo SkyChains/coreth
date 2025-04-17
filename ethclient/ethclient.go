@@ -34,16 +34,16 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/coreth/accounts/abi/bind"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/interfaces"
-	"github.com/SkyChains/coreth/rpc"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/coreth/accounts/abi/bind"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/interfaces"
+	"github.com/skychains/coreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 
 	// Force-load precompiles to trigger registration
-	_ "github.com/SkyChains/coreth/precompile/registry"
+	_ "github.com/skychains/coreth/precompile/registry"
 )
 
 // Verify that Client implements required interfaces

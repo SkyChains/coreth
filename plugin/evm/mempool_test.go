@@ -6,8 +6,8 @@ package evm
 import (
 	"testing"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/snow"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/snow"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/stretchr/testify/require"
 )

@@ -27,9 +27,9 @@
 package trie
 
 import (
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/trie/triedb/hashdb"
-	"github.com/SkyChains/coreth/trie/triedb/pathdb"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/trie/triedb/hashdb"
+	"github.com/skychains/coreth/trie/triedb/pathdb"
 	"github.com/ethereum/go-ethereum/ethdb"
 )
 

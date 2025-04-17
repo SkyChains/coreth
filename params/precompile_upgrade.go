@@ -8,9 +8,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/SkyChains/coreth/precompile/modules"
-	"github.com/SkyChains/coreth/precompile/precompileconfig"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/precompile/modules"
+	"github.com/skychains/coreth/precompile/precompileconfig"
+	"github.com/skychains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 )
 

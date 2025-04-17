@@ -32,8 +32,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/trie/testutil"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/trie/testutil"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/stretchr/testify/assert"

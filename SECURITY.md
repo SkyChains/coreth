@@ -16,5 +16,5 @@ Please refer to the [Bug Bounty Page](https://hackenproof.com/lux) for the most 
 
 ## Supported Versions
 
-Please use the [most recently released version](https://github.com/SkyChains/coreth/releases/latest) to perform testing and to validate security issues.
+Please use the [most recently released version](https://github.com/skychains/coreth/releases/latest) to perform testing and to validate security issues.
 

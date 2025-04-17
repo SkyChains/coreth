@@ -6,7 +6,7 @@ package stats
 import (
 	"time"
 
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/coreth/metrics"
 )
 
 // RequestHandlerStats provides the interface for metrics for both app requests and cross chain requests.

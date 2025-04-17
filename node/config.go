@@ -31,9 +31,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/SkyChains/coreth/accounts"
-	"github.com/SkyChains/coreth/accounts/external"
-	"github.com/SkyChains/coreth/accounts/keystore"
+	"github.com/skychains/coreth/accounts"
+	"github.com/skychains/coreth/accounts/external"
+	"github.com/skychains/coreth/accounts/keystore"
 	"github.com/ethereum/go-ethereum/log"
 )
 

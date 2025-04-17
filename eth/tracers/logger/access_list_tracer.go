@@ -19,8 +19,8 @@ package logger
 import (
 	"math/big"
 
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/core/vm"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/core/vm"
 	"github.com/ethereum/go-ethereum/common"
 )
 

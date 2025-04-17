@@ -12,17 +12,17 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/SkyChains/chain/database"
-	"github.com/SkyChains/chain/database/memdb"
-	"github.com/SkyChains/chain/database/versiondb"
+	"github.com/skychains/chain/database"
+	"github.com/skychains/chain/database/memdb"
+	"github.com/skychains/chain/database/versiondb"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	syncclient "github.com/SkyChains/coreth/sync/client"
-	"github.com/SkyChains/coreth/sync/handlers"
-	handlerstats "github.com/SkyChains/coreth/sync/handlers/stats"
-	"github.com/SkyChains/coreth/sync/syncutils"
-	"github.com/SkyChains/coreth/trie"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/plugin/evm/message"
+	syncclient "github.com/skychains/coreth/sync/client"
+	"github.com/skychains/coreth/sync/handlers"
+	handlerstats "github.com/skychains/coreth/sync/handlers/stats"
+	"github.com/skychains/coreth/sync/syncutils"
+	"github.com/skychains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 )
 

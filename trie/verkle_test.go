@@ -22,10 +22,10 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie/triedb/pathdb"
-	"github.com/SkyChains/coreth/trie/utils"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie/triedb/pathdb"
+	"github.com/skychains/coreth/trie/utils"
 	"github.com/ethereum/go-ethereum/common"
 )
 

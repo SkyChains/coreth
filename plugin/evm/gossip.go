@@ -14,16 +14,16 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/prometheus/client_golang/prometheus"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/network/p2p"
-	"github.com/SkyChains/chain/network/p2p/gossip"
-	"github.com/SkyChains/chain/snow/engine/common"
-	"github.com/SkyChains/chain/utils/logging"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/network/p2p"
+	"github.com/skychains/chain/network/p2p/gossip"
+	"github.com/skychains/chain/snow/engine/common"
+	"github.com/skychains/chain/utils/logging"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/txpool"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/eth"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/txpool"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/eth"
 )
 
 const pendingTxsBuffer = 10

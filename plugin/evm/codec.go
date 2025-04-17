@@ -6,10 +6,10 @@ package evm
 import (
 	"fmt"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/codec/linearcodec"
-	"github.com/SkyChains/chain/utils/wrappers"
-	"github.com/SkyChains/chain/vms/secp256k1fx"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/codec/linearcodec"
+	"github.com/skychains/chain/utils/wrappers"
+	"github.com/skychains/chain/vms/secp256k1fx"
 )
 
 // Codec does serialization and deserialization

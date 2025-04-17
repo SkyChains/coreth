@@ -33,7 +33,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/core/types"
 )
 
 type blockAndState struct {

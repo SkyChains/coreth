@@ -7,9 +7,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/rpc"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/rlp"

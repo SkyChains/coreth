@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	utils_math "github.com/SkyChains/chain/utils/math"
-	"github.com/SkyChains/chain/utils/timer"
-	"github.com/SkyChains/coreth/metrics"
+	utils_math "github.com/skychains/chain/utils/math"
+	"github.com/skychains/chain/utils/timer"
+	"github.com/skychains/coreth/metrics"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

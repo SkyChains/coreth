@@ -8,9 +8,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/crypto/secp256k1"
-	"github.com/SkyChains/chain/vms/components/chain"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/crypto/secp256k1"
+	"github.com/skychains/chain/vms/components/chain"
 
 	"github.com/stretchr/testify/assert"
 )

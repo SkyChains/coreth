@@ -26,7 +26,7 @@
 
 package state
 
-import "github.com/SkyChains/coreth/metrics"
+import "github.com/skychains/coreth/metrics"
 
 var (
 	accountUpdatedMeter      = metrics.NewRegisteredMeter("state/update/account", nil)

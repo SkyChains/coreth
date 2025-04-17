@@ -10,25 +10,25 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/network/p2p/gossip"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/network/p2p/gossip"
 
-	"github.com/SkyChains/coreth/peer"
+	"github.com/skychains/coreth/peer"
 
-	"github.com/SkyChains/chain/cache"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/snow"
-	"github.com/SkyChains/chain/utils/wrappers"
+	"github.com/skychains/chain/cache"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/snow"
+	"github.com/skychains/chain/utils/wrappers"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/txpool"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/txpool"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/plugin/evm/message"
 )
 
 const (

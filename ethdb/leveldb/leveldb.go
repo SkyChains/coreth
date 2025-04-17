@@ -37,8 +37,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SkyChains/coreth/ethdb"
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/coreth/ethdb"
+	"github.com/skychains/coreth/metrics"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/syndtr/goleveldb/leveldb"

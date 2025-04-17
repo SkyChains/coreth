@@ -9,9 +9,9 @@ import (
 	"math"
 	"time"
 
-	"github.com/SkyChains/chain/database"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie/trienode"
+	"github.com/skychains/chain/database"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie/trienode"
 	"github.com/ethereum/go-ethereum/log"
 )
 

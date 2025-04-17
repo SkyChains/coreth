@@ -34,10 +34,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie"
 
 	"github.com/davecgh/go-spew/spew"
 

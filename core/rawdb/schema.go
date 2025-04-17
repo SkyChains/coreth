@@ -31,8 +31,8 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/SkyChains/chain/utils/wrappers"
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/chain/utils/wrappers"
+	"github.com/skychains/coreth/metrics"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

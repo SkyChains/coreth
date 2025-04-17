@@ -37,12 +37,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SkyChains/coreth/accounts/abi"
-	"github.com/SkyChains/coreth/accounts/abi/bind"
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/interfaces"
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/accounts/abi"
+	"github.com/skychains/coreth/accounts/abi/bind"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/interfaces"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

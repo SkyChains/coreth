@@ -6,7 +6,7 @@ package stats
 import (
 	"time"
 
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/coreth/metrics"
 )
 
 // HandlerStats reports prometheus metrics for the state sync handlers

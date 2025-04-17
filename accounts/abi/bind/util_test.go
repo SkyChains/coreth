@@ -33,10 +33,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SkyChains/coreth/accounts/abi/bind"
-	"github.com/SkyChains/coreth/accounts/abi/bind/backends"
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/accounts/abi/bind"
+	"github.com/skychains/coreth/accounts/abi/bind/backends"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

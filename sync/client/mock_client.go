@@ -8,11 +8,11 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	"github.com/SkyChains/coreth/sync/handlers"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/sync/handlers"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/rlp"
 )

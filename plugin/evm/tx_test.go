@@ -13,11 +13,11 @@ import (
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/snow"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/snow"
 )
 
 func TestCalculateDynamicFee(t *testing.T) {

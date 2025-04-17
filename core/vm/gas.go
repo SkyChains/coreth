@@ -27,7 +27,7 @@
 package vm
 
 import (
-	"github.com/SkyChains/coreth/vmerrs"
+	"github.com/skychains/coreth/vmerrs"
 	"github.com/holiman/uint256"
 )
 

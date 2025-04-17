@@ -31,10 +31,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 )

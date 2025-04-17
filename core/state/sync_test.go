@@ -19,11 +19,11 @@ package state
 import (
 	"math/big"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie"
-	"github.com/SkyChains/coreth/trie/triedb/hashdb"
-	"github.com/SkyChains/coreth/trie/triedb/pathdb"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie"
+	"github.com/skychains/coreth/trie/triedb/hashdb"
+	"github.com/skychains/coreth/trie/triedb/pathdb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethdb"

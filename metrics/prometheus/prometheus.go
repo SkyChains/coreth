@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/coreth/metrics"
 
 	"github.com/prometheus/client_golang/prometheus"
 

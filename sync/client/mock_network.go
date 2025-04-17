@@ -7,10 +7,10 @@ import (
 	"context"
 	"errors"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/coreth/peer"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/coreth/peer"
 
-	"github.com/SkyChains/chain/version"
+	"github.com/skychains/chain/version"
 )
 
 var _ peer.NetworkClient = &mockNetwork{}

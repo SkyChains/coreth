@@ -3,7 +3,7 @@
 
 package evm
 
-import "github.com/SkyChains/coreth/metrics"
+import "github.com/skychains/coreth/metrics"
 
 var _ GossipStats = &gossipStats{}
 

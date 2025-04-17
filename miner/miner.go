@@ -28,13 +28,13 @@
 package miner
 
 import (
-	"github.com/SkyChains/chain/utils/timer/mockable"
-	"github.com/SkyChains/coreth/consensus"
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/txpool"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/precompile/precompileconfig"
+	"github.com/skychains/chain/utils/timer/mockable"
+	"github.com/skychains/coreth/consensus"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/txpool"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/precompile/precompileconfig"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/event"
 )

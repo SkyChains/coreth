@@ -6,7 +6,7 @@ package evm
 import (
 	"errors"
 
-	"github.com/SkyChains/chain/database"
+	"github.com/skychains/chain/database"
 	"github.com/ethereum/go-ethereum/ethdb"
 )
 

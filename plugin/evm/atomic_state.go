@@ -6,9 +6,9 @@ package evm
 import (
 	"fmt"
 
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/database"
-	"github.com/SkyChains/chain/ids"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/database"
+	"github.com/skychains/chain/ids"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

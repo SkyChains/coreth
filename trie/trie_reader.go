@@ -27,8 +27,8 @@
 package trie
 
 import (
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie/triestate"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie/triestate"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

@@ -8,12 +8,12 @@ import (
 	"crypto/rand"
 	"testing"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	"github.com/SkyChains/coreth/sync/handlers/stats"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/sync/handlers/stats"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethdb/memorydb"

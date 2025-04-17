@@ -30,11 +30,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/SkyChains/coreth/consensus"
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/trie"
+	"github.com/skychains/coreth/consensus"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/trie"
 )
 
 // BlockValidator is responsible for validating block headers, uncles and

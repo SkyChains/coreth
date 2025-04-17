@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/SkyChains/coreth/precompile/precompileconfig"
-	"github.com/SkyChains/coreth/precompile/testutils"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/precompile/precompileconfig"
+	"github.com/skychains/coreth/precompile/testutils"
+	"github.com/skychains/coreth/utils"
 	"go.uber.org/mock/gomock"
 )
 

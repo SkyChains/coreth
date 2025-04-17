@@ -30,12 +30,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/SkyChains/coreth/consensus/dummy"
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/core/vm"
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/trie"
+	"github.com/skychains/coreth/consensus/dummy"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/core/vm"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

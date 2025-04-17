@@ -7,5 +7,5 @@ package registry
 // Force imports of each precompile to ensure each precompile's init function runs and registers itself
 // with the registry.
 import (
-	_ "github.com/SkyChains/coreth/precompile/contracts/warp"
+	_ "github.com/skychains/coreth/precompile/contracts/warp"
 )

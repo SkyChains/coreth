@@ -29,7 +29,7 @@ package runtime_test
 import (
 	"fmt"
 
-	"github.com/SkyChains/coreth/core/vm/runtime"
+	"github.com/skychains/coreth/core/vm/runtime"
 	"github.com/ethereum/go-ethereum/common"
 )
 

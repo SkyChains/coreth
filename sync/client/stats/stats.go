@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/SkyChains/coreth/metrics"
-	"github.com/SkyChains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/metrics"
+	"github.com/skychains/coreth/plugin/evm/message"
 )
 
 var (

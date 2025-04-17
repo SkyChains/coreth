@@ -27,8 +27,8 @@
 package runtime
 
 import (
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/vm"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

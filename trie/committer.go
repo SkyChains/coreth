@@ -29,7 +29,7 @@ package trie
 import (
 	"fmt"
 
-	"github.com/SkyChains/coreth/trie/trienode"
+	"github.com/skychains/coreth/trie/trienode"
 	"github.com/ethereum/go-ethereum/common"
 )
 

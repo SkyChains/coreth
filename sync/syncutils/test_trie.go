@@ -10,11 +10,11 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/SkyChains/chain/utils/wrappers"
-	"github.com/SkyChains/coreth/accounts/keystore"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie"
-	"github.com/SkyChains/coreth/trie/trienode"
+	"github.com/skychains/chain/utils/wrappers"
+	"github.com/skychains/coreth/accounts/keystore"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie"
+	"github.com/skychains/coreth/trie/trienode"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"

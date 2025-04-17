@@ -47,7 +47,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/SkyChains/coreth/accounts"
+	"github.com/skychains/coreth/accounts"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"

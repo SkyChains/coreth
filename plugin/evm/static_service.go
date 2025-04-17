@@ -7,8 +7,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/SkyChains/chain/utils/formatting"
-	"github.com/SkyChains/coreth/core"
+	"github.com/skychains/chain/utils/formatting"
+	"github.com/skychains/coreth/core"
 )
 
 // StaticService defines the static API services exposed by the evm

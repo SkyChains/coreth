@@ -38,7 +38,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/coreth/metrics"
 	"github.com/ethereum/go-ethereum/log"
 	"golang.org/x/time/rate"
 )

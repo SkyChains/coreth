@@ -8,12 +8,12 @@ import (
 	"context"
 	"time"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/units"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/units"
 
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	"github.com/SkyChains/coreth/sync/handlers/stats"
+	"github.com/skychains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/sync/handlers/stats"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

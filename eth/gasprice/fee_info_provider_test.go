@@ -9,9 +9,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

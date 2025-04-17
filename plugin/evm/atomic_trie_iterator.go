@@ -7,12 +7,12 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/wrappers"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/wrappers"
 
-	"github.com/SkyChains/coreth/trie"
+	"github.com/skychains/coreth/trie"
 	"github.com/ethereum/go-ethereum/common"
 )
 

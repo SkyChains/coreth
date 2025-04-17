@@ -3,7 +3,7 @@ package snapshot
 import (
 	"time"
 
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 )

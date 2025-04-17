@@ -11,14 +11,14 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/database"
-	"github.com/SkyChains/chain/database/leveldb"
-	"github.com/SkyChains/chain/database/memdb"
-	"github.com/SkyChains/chain/database/versiondb"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/logging"
-	"github.com/SkyChains/chain/utils/wrappers"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/database"
+	"github.com/skychains/chain/database/leveldb"
+	"github.com/skychains/chain/database/memdb"
+	"github.com/skychains/chain/database/versiondb"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/logging"
+	"github.com/skychains/chain/utils/wrappers"
 
 	"github.com/ethereum/go-ethereum/common"
 )

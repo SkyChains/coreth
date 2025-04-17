@@ -5,7 +5,7 @@ package logger
 import (
 	"encoding/json"
 
-	"github.com/SkyChains/coreth/core/vm"
+	"github.com/skychains/coreth/core/vm"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/common/math"

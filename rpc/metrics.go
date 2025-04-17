@@ -30,7 +30,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/coreth/metrics"
 )
 
 var (

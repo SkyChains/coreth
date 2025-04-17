@@ -19,17 +19,17 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/core/vm"
-	"github.com/SkyChains/coreth/tests"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/core/vm"
+	"github.com/skychains/coreth/tests"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/rlp"
 
 	// Force-load the native, to trigger registration
-	"github.com/SkyChains/coreth/eth/tracers"
+	"github.com/skychains/coreth/eth/tracers"
 )
 
 // flatCallTrace is the result of a callTracerParity run.

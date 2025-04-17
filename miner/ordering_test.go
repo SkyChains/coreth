@@ -33,8 +33,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SkyChains/coreth/core/txpool"
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/core/txpool"
+	"github.com/skychains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 )

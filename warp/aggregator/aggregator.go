@@ -9,10 +9,10 @@ import (
 
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/SkyChains/chain/utils/crypto/bls"
-	"github.com/SkyChains/chain/utils/set"
-	luxWarp "github.com/SkyChains/chain/vms/platformvm/warp"
-	"github.com/SkyChains/coreth/precompile/contracts/warp"
+	"github.com/skychains/chain/utils/crypto/bls"
+	"github.com/skychains/chain/utils/set"
+	luxWarp "github.com/skychains/chain/vms/platformvm/warp"
+	"github.com/skychains/coreth/precompile/contracts/warp"
 )
 
 type AggregateSignatureResult struct {

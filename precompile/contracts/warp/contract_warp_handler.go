@@ -6,12 +6,12 @@ package warp
 import (
 	"fmt"
 
-	"github.com/SkyChains/chain/utils/set"
-	"github.com/SkyChains/chain/vms/platformvm/warp"
-	"github.com/SkyChains/chain/vms/platformvm/warp/payload"
-	"github.com/SkyChains/coreth/precompile/contract"
-	"github.com/SkyChains/coreth/predicate"
-	"github.com/SkyChains/coreth/vmerrs"
+	"github.com/skychains/chain/utils/set"
+	"github.com/skychains/chain/vms/platformvm/warp"
+	"github.com/skychains/chain/vms/platformvm/warp/payload"
+	"github.com/skychains/coreth/precompile/contract"
+	"github.com/skychains/coreth/predicate"
+	"github.com/skychains/coreth/vmerrs"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 )

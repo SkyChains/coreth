@@ -7,10 +7,10 @@ import (
 	"context"
 	"testing"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/snow/validators"
-	"github.com/SkyChains/chain/utils/constants"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/snow/validators"
+	"github.com/skychains/chain/utils/constants"
+	"github.com/skychains/coreth/utils"
 	"github.com/stretchr/testify/require"
 	"go.uber.org/mock/gomock"
 )

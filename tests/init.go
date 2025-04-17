@@ -31,8 +31,8 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/utils"
 )
 
 // Forks table defines supported forks and their chain config.

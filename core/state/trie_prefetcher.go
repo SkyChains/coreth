@@ -30,8 +30,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SkyChains/coreth/metrics"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/metrics"
+	"github.com/skychains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

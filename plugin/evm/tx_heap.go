@@ -6,7 +6,7 @@ package evm
 import (
 	"container/heap"
 
-	"github.com/SkyChains/chain/ids"
+	"github.com/skychains/chain/ids"
 )
 
 // txEntry is used to track the [gasPrice] transactions pay to be included in

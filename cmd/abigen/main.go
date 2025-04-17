@@ -34,9 +34,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/SkyChains/coreth/accounts/abi/bind"
-	"github.com/SkyChains/coreth/cmd/utils"
-	"github.com/SkyChains/coreth/internal/flags"
+	"github.com/skychains/coreth/accounts/abi/bind"
+	"github.com/skychains/coreth/cmd/utils"
+	"github.com/skychains/coreth/internal/flags"
 	"github.com/ethereum/go-ethereum/common/compiler"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/log"

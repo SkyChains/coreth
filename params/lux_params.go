@@ -6,7 +6,7 @@ package params
 import (
 	"math/big"
 
-	"github.com/SkyChains/chain/utils/units"
+	"github.com/skychains/chain/utils/units"
 )
 
 // Minimum Gas Price

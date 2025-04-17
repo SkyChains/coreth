@@ -1,2 +1,2 @@
-github.com/SkyChains/coreth/precompile/precompileconfig=Predicater,Config,ChainConfig,Accepter=precompile/precompileconfig/mocks.go
-github.com/SkyChains/coreth/precompile/contract=BlockContext,AccessibleState,StateDB=precompile/contract/mocks.go
+github.com/skychains/coreth/precompile/precompileconfig=Predicater,Config,ChainConfig,Accepter=precompile/precompileconfig/mocks.go
+github.com/skychains/coreth/precompile/contract=BlockContext,AccessibleState,StateDB=precompile/contract/mocks.go

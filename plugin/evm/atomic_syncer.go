@@ -9,14 +9,14 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/SkyChains/chain/database/versiondb"
-	"github.com/SkyChains/chain/utils/wrappers"
+	"github.com/skychains/chain/database/versiondb"
+	"github.com/skychains/chain/utils/wrappers"
 
 	"github.com/ethereum/go-ethereum/common"
 
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	syncclient "github.com/SkyChains/coreth/sync/client"
-	"github.com/SkyChains/coreth/trie"
+	"github.com/skychains/coreth/plugin/evm/message"
+	syncclient "github.com/skychains/coreth/sync/client"
+	"github.com/skychains/coreth/trie"
 )
 
 var (

@@ -6,7 +6,7 @@ package predicate
 import (
 	"fmt"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 )
 

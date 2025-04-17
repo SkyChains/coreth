@@ -33,9 +33,9 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/metrics"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/metrics"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/event"
 	"github.com/ethereum/go-ethereum/log"

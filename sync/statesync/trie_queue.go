@@ -4,7 +4,7 @@
 package statesync
 
 import (
-	"github.com/SkyChains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/rawdb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 )

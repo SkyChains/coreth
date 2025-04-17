@@ -6,8 +6,8 @@ package state
 import (
 	"testing"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/precompile/contract"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/precompile/contract"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 )

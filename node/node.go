@@ -27,8 +27,8 @@
 package node
 
 import (
-	"github.com/SkyChains/coreth/accounts"
-	"github.com/SkyChains/coreth/rpc"
+	"github.com/skychains/coreth/accounts"
+	"github.com/skychains/coreth/rpc"
 )
 
 // Node is a container on which services can be registered.

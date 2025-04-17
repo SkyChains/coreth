@@ -33,9 +33,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/metrics"
-	"github.com/SkyChains/coreth/trie/trienode"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/metrics"
+	"github.com/skychains/coreth/trie/trienode"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/rlp"

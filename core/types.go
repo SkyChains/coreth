@@ -27,9 +27,9 @@
 package core
 
 import (
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/core/vm"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

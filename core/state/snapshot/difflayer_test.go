@@ -32,7 +32,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/ethdb/memorydb"

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SkyChains/coreth/precompile/precompileconfig"
+	"github.com/skychains/coreth/precompile/precompileconfig"
 	"github.com/stretchr/testify/require"
 )
 

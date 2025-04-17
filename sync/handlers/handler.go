@@ -4,8 +4,8 @@
 package handlers
 
 import (
-	"github.com/SkyChains/coreth/core/state/snapshot"
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/core/state/snapshot"
+	"github.com/skychains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 )
 

@@ -6,10 +6,10 @@ package evm
 import (
 	"fmt"
 
-	"github.com/SkyChains/chain/database"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie/trienode"
+	"github.com/skychains/chain/database"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie/trienode"
 	"github.com/ethereum/go-ethereum/log"
 )
 

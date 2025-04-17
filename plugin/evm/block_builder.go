@@ -7,13 +7,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SkyChains/chain/utils/timer"
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/txpool"
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/chain/utils/timer"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/txpool"
+	"github.com/skychains/coreth/params"
 
-	"github.com/SkyChains/chain/snow"
-	commonEng "github.com/SkyChains/chain/snow/engine/common"
+	"github.com/skychains/chain/snow"
+	commonEng "github.com/skychains/chain/snow/engine/common"
 	"github.com/ethereum/go-ethereum/log"
 )
 

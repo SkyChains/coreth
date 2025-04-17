@@ -14,7 +14,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/SkyChains/coreth/rpc"
+	"github.com/skychains/coreth/rpc"
 )
 
 // This example configures a HTTP-based RPC client with two options - one setting the

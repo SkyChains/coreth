@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/utils"
 )
 
 func TestBlockBuilderShutsDown(t *testing.T) {

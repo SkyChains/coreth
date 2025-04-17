@@ -6,11 +6,11 @@ package evm
 import (
 	"testing"
 
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/database/memdb"
-	"github.com/SkyChains/chain/database/versiondb"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/database/memdb"
+	"github.com/skychains/chain/database/versiondb"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

@@ -32,12 +32,12 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/rpc"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 )
 

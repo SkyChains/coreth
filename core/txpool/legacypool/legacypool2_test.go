@@ -30,9 +30,9 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/event"

@@ -30,8 +30,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/vmerrs"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/vmerrs"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/holiman/uint256"
 )

@@ -30,9 +30,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie/trienode"
-	"github.com/SkyChains/coreth/trie/triestate"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie/trienode"
+	"github.com/skychains/coreth/trie/triestate"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"golang.org/x/exp/slices"

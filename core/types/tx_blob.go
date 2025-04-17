@@ -21,7 +21,7 @@ import (
 	"crypto/sha256"
 	"math/big"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto/kzg4844"
 	"github.com/ethereum/go-ethereum/rlp"

@@ -33,21 +33,21 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SkyChains/coreth/accounts/abi"
-	"github.com/SkyChains/coreth/consensus"
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/core/vm"
-	"github.com/SkyChains/coreth/eth/tracers"
-	"github.com/SkyChains/coreth/eth/tracers/logger"
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/accounts/abi"
+	"github.com/skychains/coreth/consensus"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/core/vm"
+	"github.com/skychains/coreth/eth/tracers"
+	"github.com/skychains/coreth/eth/tracers/logger"
+	"github.com/skychains/coreth/params"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/core/asm"
 
 	// force-load js tracers to trigger registration
-	_ "github.com/SkyChains/coreth/eth/tracers/js"
+	_ "github.com/skychains/coreth/eth/tracers/js"
 )
 
 func TestDefaults(t *testing.T) {

@@ -27,14 +27,14 @@
 package tests
 
 import (
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/state"
-	"github.com/SkyChains/coreth/core/state/snapshot"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/trie"
-	"github.com/SkyChains/coreth/trie/triedb/hashdb"
-	"github.com/SkyChains/coreth/trie/triedb/pathdb"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/state"
+	"github.com/skychains/coreth/core/state/snapshot"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/trie"
+	"github.com/skychains/coreth/trie/triedb/hashdb"
+	"github.com/skychains/coreth/trie/triedb/pathdb"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/ethdb"
 )

@@ -6,10 +6,10 @@ package evm
 import (
 	"testing"
 
-	"github.com/SkyChains/chain/database/memdb"
-	"github.com/SkyChains/chain/database/versiondb"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/chain/database/memdb"
+	"github.com/skychains/chain/database/versiondb"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/exp/maps"

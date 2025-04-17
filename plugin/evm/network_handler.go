@@ -6,15 +6,15 @@ package evm
 import (
 	"context"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/coreth/metrics"
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	syncHandlers "github.com/SkyChains/coreth/sync/handlers"
-	syncStats "github.com/SkyChains/coreth/sync/handlers/stats"
-	"github.com/SkyChains/coreth/trie"
-	"github.com/SkyChains/coreth/warp"
-	warpHandlers "github.com/SkyChains/coreth/warp/handlers"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/coreth/metrics"
+	"github.com/skychains/coreth/plugin/evm/message"
+	syncHandlers "github.com/skychains/coreth/sync/handlers"
+	syncStats "github.com/skychains/coreth/sync/handlers/stats"
+	"github.com/skychains/coreth/trie"
+	"github.com/skychains/coreth/warp"
+	warpHandlers "github.com/skychains/coreth/warp/handlers"
 	"github.com/ethereum/go-ethereum/ethdb"
 )
 

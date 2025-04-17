@@ -33,8 +33,8 @@ import (
 	"math/big"
 	"slices"
 
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/rpc"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/rpc"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

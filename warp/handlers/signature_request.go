@@ -7,11 +7,11 @@ import (
 	"context"
 	"time"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/crypto/bls"
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	"github.com/SkyChains/coreth/warp"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/crypto/bls"
+	"github.com/skychains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/warp"
 	"github.com/ethereum/go-ethereum/log"
 )
 

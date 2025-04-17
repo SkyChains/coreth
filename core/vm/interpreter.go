@@ -27,7 +27,7 @@
 package vm
 
 import (
-	"github.com/SkyChains/coreth/vmerrs"
+	"github.com/skychains/coreth/vmerrs"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/common/math"
 	"github.com/ethereum/go-ethereum/crypto"

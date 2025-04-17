@@ -33,10 +33,10 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/SkyChains/coreth/params"
+	"github.com/skychains/coreth/params"
 )
 
-const ourPath = "github.com/SkyChains/coreth" // Path to our module
+const ourPath = "github.com/skychains/coreth" // Path to our module
 
 // These variables are set at build-time by the linker when the build is
 // done by build/ci.go.

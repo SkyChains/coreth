@@ -34,8 +34,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/types"
 	"github.com/ethereum/go-ethereum/rlp"
 )
 

@@ -11,23 +11,23 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/SkyChains/chain/ids"
+	"github.com/skychains/chain/ids"
 
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/sync/client/stats"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/sync/client/stats"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/version"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/version"
 
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/crypto"
 	"github.com/ethereum/go-ethereum/log"
 
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/peer"
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	"github.com/SkyChains/coreth/trie"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/peer"
+	"github.com/skychains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/trie"
 	"github.com/ethereum/go-ethereum/ethdb"
 )
 

@@ -8,8 +8,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/SkyChains/coreth/accounts/abi"
-	"github.com/SkyChains/coreth/vmerrs"
+	"github.com/skychains/coreth/accounts/abi"
+	"github.com/skychains/coreth/vmerrs"
 	"github.com/ethereum/go-ethereum/crypto"
 )
 

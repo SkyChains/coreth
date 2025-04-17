@@ -7,11 +7,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/SkyChains/chain/utils/set"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/precompile/precompileconfig"
-	"github.com/SkyChains/coreth/predicate"
+	"github.com/skychains/chain/utils/set"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/precompile/precompileconfig"
+	"github.com/skychains/coreth/predicate"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 )

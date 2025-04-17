@@ -6,8 +6,8 @@ package params
 import (
 	"encoding/json"
 
-	"github.com/SkyChains/coreth/precompile/modules"
-	"github.com/SkyChains/coreth/precompile/precompileconfig"
+	"github.com/skychains/coreth/precompile/modules"
+	"github.com/skychains/coreth/precompile/precompileconfig"
 )
 
 type Precompiles map[string]precompileconfig.Config

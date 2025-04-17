@@ -7,11 +7,11 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/SkyChains/chain/codec"
-	"github.com/SkyChains/chain/ids"
+	"github.com/skychains/chain/codec"
+	"github.com/skychains/chain/ids"
 
-	"github.com/SkyChains/coreth/internal/ethapi"
-	"github.com/SkyChains/coreth/rpc"
+	"github.com/skychains/coreth/internal/ethapi"
+	"github.com/skychains/coreth/rpc"
 
 	"github.com/ethereum/go-ethereum/log"
 )

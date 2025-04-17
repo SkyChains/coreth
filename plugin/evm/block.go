@@ -14,17 +14,17 @@ import (
 	"github.com/ethereum/go-ethereum/log"
 	"github.com/ethereum/go-ethereum/rlp"
 
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/rawdb"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/params"
-	"github.com/SkyChains/coreth/precompile/precompileconfig"
-	"github.com/SkyChains/coreth/predicate"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/rawdb"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/params"
+	"github.com/skychains/coreth/precompile/precompileconfig"
+	"github.com/skychains/coreth/predicate"
 
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/snow/choices"
-	"github.com/SkyChains/chain/snow/consensus/snowman"
-	"github.com/SkyChains/chain/snow/engine/snowman/block"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/snow/choices"
+	"github.com/skychains/chain/snow/consensus/snowman"
+	"github.com/skychains/chain/snow/engine/snowman/block"
 )
 
 var (

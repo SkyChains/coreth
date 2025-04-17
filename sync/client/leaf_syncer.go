@@ -9,8 +9,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/SkyChains/coreth/plugin/evm/message"
-	"github.com/SkyChains/coreth/utils"
+	"github.com/skychains/coreth/plugin/evm/message"
+	"github.com/skychains/coreth/utils"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	"golang.org/x/sync/errgroup"

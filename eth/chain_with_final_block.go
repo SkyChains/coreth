@@ -2,8 +2,8 @@
 package eth
 
 import (
-	"github.com/SkyChains/coreth/core"
-	"github.com/SkyChains/coreth/core/types"
+	"github.com/skychains/coreth/core"
+	"github.com/skychains/coreth/core/types"
 )
 
 const blocksToKeep = 604_800 // Approx. 2 weeks worth of blocks assuming 2s block time

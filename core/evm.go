@@ -29,11 +29,11 @@ package core
 import (
 	"math/big"
 
-	"github.com/SkyChains/coreth/consensus"
-	"github.com/SkyChains/coreth/consensus/misc/eip4844"
-	"github.com/SkyChains/coreth/core/types"
-	"github.com/SkyChains/coreth/core/vm"
-	"github.com/SkyChains/coreth/predicate"
+	"github.com/skychains/coreth/consensus"
+	"github.com/skychains/coreth/consensus/misc/eip4844"
+	"github.com/skychains/coreth/core/types"
+	"github.com/skychains/coreth/core/vm"
+	"github.com/skychains/coreth/predicate"
 	"github.com/ethereum/go-ethereum/common"
 	"github.com/ethereum/go-ethereum/log"
 	//"github.com/ethereum/go-ethereum/log"

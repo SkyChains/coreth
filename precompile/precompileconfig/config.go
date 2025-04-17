@@ -5,11 +5,11 @@
 package precompileconfig
 
 import (
-	"github.com/SkyChains/chain/chains/atomic"
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/snow"
-	"github.com/SkyChains/chain/snow/engine/snowman/block"
-	"github.com/SkyChains/chain/vms/platformvm/warp"
+	"github.com/skychains/chain/chains/atomic"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/snow"
+	"github.com/skychains/chain/snow/engine/snowman/block"
+	"github.com/skychains/chain/vms/platformvm/warp"
 	"github.com/ethereum/go-ethereum/common"
 )
 

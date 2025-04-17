@@ -27,8 +27,8 @@
 package node
 
 import (
-	"github.com/SkyChains/coreth/internal/debug"
-	"github.com/SkyChains/coreth/rpc"
+	"github.com/skychains/coreth/internal/debug"
+	"github.com/skychains/coreth/rpc"
 	"github.com/ethereum/go-ethereum/common/hexutil"
 	"github.com/ethereum/go-ethereum/crypto"
 )

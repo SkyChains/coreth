@@ -4,8 +4,8 @@
 package evm
 
 import (
-	"github.com/SkyChains/chain/ids"
-	"github.com/SkyChains/chain/utils/hashing"
+	"github.com/skychains/chain/ids"
+	"github.com/skychains/chain/utils/hashing"
 )
 
 type Metadata struct {
